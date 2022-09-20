@@ -1,4 +1,4 @@
-Curso de "HTML e CSS: responsividade com mobile-first" da Alura
+Curso de "HTML e CSS: responsividade com mobile-first" da Alura.
 <p align="center"> <img src="https://imgur.com/Hy6t2jH.png" alt="HTML e CSS: responsividade com mobile-first"> </p>
 
 <hr>
